@@ -1,0 +1,962 @@
+[
+ {
+  "id": "khar01",
+  "area": "harassment",
+  "text": "Do NOT use Bellweather Plumbing. They charged me $480 to \"fix\" a leak under my sink, and it was dripping again two days later. They won't call back. Worst service I've had in 11 years on this street. Save your money.",
+  "intended_action": "ALLOW",
+  "difficulty": "clear",
+  "why": "This is harsh criticism of a business's service, which the policy allows."
+ },
+ {
+  "id": "khar02",
+  "area": "harassment",
+  "text": "Can we talk about the council voting 4-1 to cut the Saturday bus route? Whoever thought that was a good idea has clearly never had to get groceries without a car. Terrible decision, and I'll remember it in November.",
+  "intended_action": "ALLOW",
+  "difficulty": "clear",
+  "why": "It criticizes public officials' decision, not anyone personally, and that is allowed even when the tone is angry."
+ },
+ {
+  "id": "khar03",
+  "area": "harassment",
+  "text": "The HOA proposal to ban all backyard chickens is honestly ridiculous. Nobody has complained about noise in years. This is a solution looking for a problem. Vote no at the meeting on the 12th.",
+  "intended_action": "ALLOW",
+  "difficulty": "clear",
+  "why": "It disagrees with an idea and a proposal, not a person, so it is allowed."
+ },
+ {
+  "id": "khar04",
+  "area": "harassment",
+  "text": "Gary Thibodeaux on Wren Court is a fat useless slob who can't even mow his own lawn. Everyone on this street is embarrassed to live next to you Gary.",
+  "intended_action": "REMOVE",
+  "difficulty": "clear",
+  "why": "It insults and mocks a named private person directly."
+ },
+ {
+  "id": "khar05",
+  "area": "harassment",
+  "text": "Everyone go leave a comment on Brenda Kowalski's posts and let her know what we think of her calling animal control on the Nguyens. Flood her inbox. She needs to feel it.",
+  "intended_action": "REMOVE",
+  "difficulty": "clear",
+  "why": "It urges other people to target a specific person, which the harassment rules forbid."
+ },
+ {
+  "id": "khar06",
+  "area": "harassment",
+  "text": "That guy who runs the community garden plot next to mine is a [slur] and everybody knows it. Mark from plot 7, I'm talking about you.",
+  "intended_action": "REMOVE",
+  "difficulty": "clear",
+  "why": "It aims a slur at a specific, identifiable person."
+ },
+ {
+  "id": "khar07",
+  "area": "harassment",
+  "text": "Hey Dennis on Halvorsen Ave. I know you're the one who keyed my truck. Next time I see you I'm going to break your jaw. That's a promise.",
+  "intended_action": "ESCALATE",
+  "difficulty": "clear",
+  "why": "It directly threatens violence against a named person."
+ },
+ {
+  "id": "khar08",
+  "area": "harassment",
+  "text": "To whoever keeps letting their dog crap on my lawn \u2014 I know it's you, Paula. If it happens one more time you'll be the one who needs a doctor, not the dog.",
+  "intended_action": "ESCALATE",
+  "difficulty": "clear",
+  "why": "It threatens violence against a named person on a condition, and the policy says conditional threats count."
+ },
+ {
+  "id": "khar09",
+  "area": "harassment",
+  "text": "Huge shoutout to the genius at 14 Larkspur Lane for the gorgeous dandelion meadow and the couch on the porch \ud83d\ude44 really classing up the neighborhood, thanks so much!!",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "The sarcastic praise mocks an identifiable private resident by home address, so it counts as targeted mockery and also raises a privacy problem, even though there are no direct insults."
+ },
+ {
+  "id": "khar10",
+  "area": "harassment",
+  "text": "If I see that silver SUV doing 50 past the elementary school one more time I swear I'm going to lose it. Slow DOWN people.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "Saying \"lose it\" is venting about frustration with no threat of violence and no identifiable person, but a reviewer could read it as a veiled conditional threat."
+ },
+ {
+  "id": "khar11",
+  "area": "harassment",
+  "text": "Went into Dutch's Deli again and the owner Marty was a miserable old crank as usual. Barked at my kid for touching the glass. Guy needs to retire.",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "It mixes allowed criticism of a business's service with personal insults aimed at the named owner, and the insults tip it into harassment of an identifiable person."
+ },
+ {
+  "id": "khar12",
+  "area": "harassment",
+  "text": "Councilwoman Reyes voted to close the Elm Street library branch after promising to protect it. Clueless, out of touch, and she needs to go. Don't reelect her.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "The harsh words are tied to a public official's decision and record, which the policy allows, though \"clueless\" could be read as a personal insult."
+ },
+ {
+  "id": "khar13",
+  "area": "harassment",
+  "text": "I am going to MURDER whoever keeps taking the last of the pumpkin bars at the Fenwick block party before I get there \ud83d\ude02\ud83d\ude02 every year!!!",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "The \"murder\" is plainly a joke with emojis, about baked goods and no identifiable person, though a reviewer reading literally might flag it as violent."
+ },
+ {
+  "id": "khar14",
+  "area": "harassment",
+  "text": "@Tom Ashby this is my third post about the fence. You still haven't answered my messages or the note I left. I'm not going away until you respond. Answer me.",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "Repeatedly tagging someone who has clearly ignored earlier contact counts as repeated unwanted contact, even though the tone isn't abusive and the dispute itself is real."
+ },
+ {
+  "id": "khar15",
+  "area": "harassment",
+  "text": "The lady in the blue house on the corner of Fenwick and Oak with the yappy little dogs is honestly the worst person on this street. Rude to everyone. You know who you are.",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "No name is given, but the description makes a specific private person easy to identify, and the post insults her."
+ },
+ {
+  "id": "khar16",
+  "area": "harassment",
+  "text": "Heads up neighbors: a man calling himself Derek Vole has been going door to door on Pruitt and Basswood saying he's from the gas company and asking to come inside. Called the utility and they have no one by that name. Don't let him in.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "It names a person and looks like targeting, but it is a factual safety warning about possible fraud with no insults, so it is allowed."
+ },
+ {
+  "id": "khar17",
+  "area": "harassment",
+  "text": "Someone left a note on my windshield outside Greenleaf Market today calling me a [slur] and telling me to go back where I came from. I'm shaken. If anyone has camera footage of the lot around 3pm please message me.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "It contains a slur, but the author is reporting harassment they received and asking for help, not attacking anyone."
+ },
+ {
+  "id": "khar18",
+  "area": "harassment",
+  "text": "lmaooo did everyone see Kenny from the U12 soccer team eat it at the Harvest parade \ud83d\udc80\ud83d\udc80 kid tripped over his own feet in front of the whole town, someone pls post the video",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "It sounds like lighthearted ribbing, but it mocks an identifiable child and asks others to spread the embarrassing video."
+ },
+ {
+  "id": "khar19",
+  "area": "harassment",
+  "text": "Some people on Dorrance St should remember that accidents happen. Ladders slip, brakes fail. Just saying. You know what you did, Phil.",
+  "intended_action": "ESCALATE",
+  "difficulty": "borderline",
+  "why": "There is no explicit threat, but hinting at accidents and naming Phil reads as a veiled threat of harm to a specific person, so a real person may be in danger."
+ },
+ {
+  "id": "khar20",
+  "area": "harassment",
+  "text": "The cashier at Greenleaf Market this morning (name tag said Tanya) rang me up wrong twice and rolled her eyes when I pointed it out. Not great customer service. Management should look into it.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "It criticizes the service a business provided without insulting anyone, though naming a private employee makes it close to targeting a person."
+ },
+ {
+  "id": "ksca01",
+  "area": "scams",
+  "text": "Beautiful 2BR on Larkspur Ave available NOW, $850/mo utilities included!! I'm currently working overseas with a mission group so I can't show it in person, but once you wire the first month + deposit ($1,700) through Western Union I will mail you the keys same day. Serious inquiries only, lots of interest.",
+  "intended_action": "REMOVE",
+  "difficulty": "clear",
+  "why": "This is a classic fake rental: the price is far too low, the owner can't show the unit, and they want a wire transfer before you get the keys."
+ },
+ {
+  "id": "ksca02",
+  "area": "scams",
+  "text": "ATTENTION Maple Hollow residents: Tri-County Power is doing emergency account verification this week. To avoid shutoff, purchase $200 in Apple gift cards and text the codes to our field office at the number below. Do not delay.",
+  "intended_action": "REMOVE",
+  "difficulty": "clear",
+  "why": "It asks for gift-card payment under a false shutoff threat while pretending to be a utility, so it breaks both the scam and impersonation rules."
+ },
+ {
+  "id": "ksca03",
+  "area": "scams",
+  "text": "\ud83c\udf89 CONGRATS! Your household was randomly selected as this month's Corkboard Neighbor of the Month \u2014 prize is a $500 Visa card! To claim just reply with your full name, date of birth and the last 4 of your SSN so we can verify you live in the area.",
+  "intended_action": "REMOVE",
+  "difficulty": "clear",
+  "why": "It's a fake prize used to collect personal information under false pretenses."
+ },
+ {
+  "id": "ksca04",
+  "area": "scams",
+  "text": "Selling our gray sectional, about 4 yrs old, one small stain on the arm cushion (pic 3). $175 OBO. You pick up, we're near the corner of Birch & Eastgate. Cash or Venmo when you get here.",
+  "intended_action": "ALLOW",
+  "difficulty": "clear",
+  "why": "It's an ordinary local sale with honest details and payment on pickup."
+ },
+ {
+  "id": "ksca05",
+  "area": "scams",
+  "text": "1972 Raleigh Competition road bike, fully restored, original Reynolds 531 frame. Asking $2,400 firm. I know that's steep but it's a collector piece. Happy to let you look it over in my garage on Quillon Ct.",
+  "intended_action": "ALLOW",
+  "difficulty": "clear",
+  "why": "The price is high but it's a normal sale with an in-person viewing, and the policy explicitly allows high prices."
+ },
+ {
+  "id": "ksca06",
+  "area": "scams",
+  "text": "brand new iphone 17 pro max sealed in box $250. no pics sorry phone camera broken lol. DM me, can't meet up this week but can ship",
+  "intended_action": "LIMIT",
+  "difficulty": "clear",
+  "why": "No photos, a price far too low, and shipping only with no meetup make it suspicious, but it isn't clearly fraudulent."
+ },
+ {
+  "id": "ksca07",
+  "area": "scams",
+  "text": "Golden retriever puppies, AKC, $150 each!! Shipping anywhere, we are relocating so must go fast. Message for more photos. Payment via Zelle before shipping.",
+  "intended_action": "LIMIT",
+  "difficulty": "clear",
+  "why": "Very cheap puppies, shipping only, and payment before delivery are common scam signs, but nothing here proves fraud."
+ },
+ {
+  "id": "ksca08",
+  "area": "scams",
+  "text": "Heads up everyone \u2014 I got a text today pretending to be from the Elmridge Water District saying my bill was overdue and to pay with gift cards. Called the real office and they said they NEVER do that. Don't fall for it!",
+  "intended_action": "ALLOW",
+  "difficulty": "clear",
+  "why": "This is a helpful warning about a scam, not a scam itself."
+ },
+ {
+  "id": "ksca09",
+  "area": "scams",
+  "text": "PSA: the guy calling around pretending to be from the county tax office is using this number: (555) 204-8817. Do NOT give him your info. Block it.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "Sharing a phone number could look like a privacy violation, but this number belongs to an anonymous scam caller rather than an identifiable private neighbor, and the post protects people."
+ },
+ {
+  "id": "ksca10",
+  "area": "scams",
+  "text": "Selling my kids' old bunk bed, $90. I'll also take a Target or Home Depot gift card for the same amount if that's easier for you, I use both all the time.",
+  "intended_action": "LIMIT",
+  "difficulty": "borderline",
+  "why": "Asking for gift cards is a listed scam signal, but here it's an optional choice in what looks like a real local sale, so it's suspicious rather than clearly fraudulent."
+ },
+ {
+  "id": "ksca11",
+  "area": "scams",
+  "text": "Our goldendoodle had her litter! Ready to go home Dec 1. $300 deposit holds your pick, balance at pickup. You're welcome to come meet mom and the pups at our place on Ferris Rd any weekend before you put anything down.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "A deposit up front looks like advance-fee fraud, but the seller is local and invites buyers to visit before they pay, which is how legitimate breeders work."
+ },
+ {
+  "id": "ksca12",
+  "area": "scams",
+  "text": "Our neighbor Mrs. Okafor on Tillman St had a bad fall and doesn't have insurance. I started a fundraiser for her hospital bills, link below. Please give what you can \ud83d\ude4f (I haven't been able to reach her family yet but I know she needs it)",
+  "intended_action": "LIMIT",
+  "difficulty": "borderline",
+  "why": "It could be real community support, but the organizer can't confirm the family knows about it, so it's suspicious enough to limit without being clearly fake."
+ },
+ {
+  "id": "ksca13",
+  "area": "scams",
+  "text": "Moms!! Want to earn $5,000/month from your phone while the kids nap?? I did it and so can you \ud83d\udcb8 Just a small starter kit investment and I'll mentor you personally. Comment 'INFO' and I'll DM!!",
+  "intended_action": "LIMIT",
+  "difficulty": "borderline",
+  "why": "This reads like a misleading MLM recruitment pitch rather than a clear false-pretenses theft, though a reviewer could fairly treat the income claim and upfront fee as fraud."
+ },
+ {
+  "id": "ksca14",
+  "area": "scams",
+  "text": "FREE THANKSGIVING TURKEYS \ud83e\udd83 Corner Pantry is giving away 10 turkeys! To enter just LIKE this post, SHARE it to 3 groups, and tag 5 neighbors. Winners announced Sunday!",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "Even if the giveaway is real, \"share this to win\" engagement bait must be removed under the spam rule, and that is more severe than any scam LIMIT."
+ },
+ {
+  "id": "ksca15",
+  "area": "scams",
+  "text": "Weird question \u2014 someone messaged about my car I listed and said he'll mail a cashier's check for $1,200 MORE than my price and I just send the extra to his moving company. Is that normal?? Kinda seems off but he was really nice.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "It describes a classic overpayment scam, but the poster is the possible victim asking a question, and questions are allowed."
+ },
+ {
+  "id": "ksca16",
+  "area": "scams",
+  "text": "Storm damage? Summit Peak Roofing is in town THIS WEEK ONLY from Oklahoma. We'll do free inspections, and if you sign today we only need 50% upfront to lock in insurance pricing. Call Brad.",
+  "intended_action": "LIMIT",
+  "difficulty": "borderline",
+  "why": "An out-of-area storm-chaser asking for 50% upfront under time pressure is suspicious, and it's promotion of an outside business, but neither makes it clearly fraudulent."
+ },
+ {
+  "id": "ksca17",
+  "area": "scams",
+  "text": "Just saw the county is giving every homeowner a $300 energy rebate this year if you register before Nov 15 at countyrebate-claimnow.info \u2014 you just need your bank routing # for the direct deposit. Get yours!",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "The poster may honestly believe it, which could make it look like LIMIT-level local misinformation, but it sends people to a lookalike site that collects bank details under false pretenses."
+ },
+ {
+  "id": "ksca18",
+  "area": "scams",
+  "text": "To the residents of Pinecrest Commons who still owe the 'neighborhood security fee': pay $50 in Google Play cards by Friday. If not, me and a couple guys will be stopping by in person to collect, and you really don't want that.",
+  "intended_action": "ESCALATE",
+  "difficulty": "borderline",
+  "why": "It's already a gift-card scam that would be removed, but the conditional threat of an in-person visit is a threat of violence, so it must be escalated."
+ },
+ {
+  "id": "ksca19",
+  "area": "scams",
+  "text": "Don't buy ANYTHING from Darnell on Fenwick St. Total scammer. Sold me a 'working' mower that died after 10 min and now won't answer my texts. Learn from my mistake.",
+  "intended_action": "LIMIT",
+  "difficulty": "borderline",
+  "why": "It's a first-hand account of a bad sale, but calling a named private person a \"scammer\" is likely to start conflict and comes close to a harassment removal."
+ },
+ {
+  "id": "ksca20",
+  "area": "scams",
+  "text": "Got 2 tix to the Harbor Lights show at the Riverside Amphitheater, Sat 11/14. Paid $90 each, asking $160 each since it's sold out. Transfer through the official ticket app, you pay after it shows up in your account.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "Reselling above face value can look like gouging, but high prices are allowed, and paying only after the official transfer protects the buyer."
+ },
+ {
+  "id": "kmis01",
+  "area": "misinformation",
+  "text": "PSA for anyone on blood pressure meds: my naturopath says beet juice and garlic do the same thing as lisinopril without the side effects. I quit my pills last month and I'm telling everyone on Larkspur Lane to do the same. Big Pharma doesn't want you to know.",
+  "intended_action": "REMOVE",
+  "difficulty": "clear",
+  "why": "It tells people to stop prescribed medicine, which could lead to physical harm."
+ },
+ {
+  "id": "kmis02",
+  "area": "misinformation",
+  "text": "Power's out again on the east side. Reminder: it's totally fine to run your generator in the garage as long as you crack the big door a foot or so. That's what we always did growing up and nobody ever got sick.",
+  "intended_action": "REMOVE",
+  "difficulty": "clear",
+  "why": "It falsely says a dangerous practice is safe, and that could lead to carbon monoxide poisoning."
+ },
+ {
+  "id": "kmis03",
+  "area": "misinformation",
+  "text": "Don't bother boiling water during this advisory, a regular Brita pitcher filters out all the bacteria. Saved myself a ton of hassle.",
+  "intended_action": "REMOVE",
+  "difficulty": "clear",
+  "why": "It's a false safety claim that tells people to skip a boil-water advisory, which could make them sick."
+ },
+ {
+  "id": "kmis04",
+  "area": "misinformation",
+  "text": "SAD NEWS. Ashgrove Branch Library is closing FOREVER next month, the city sold the building to developers. Go return your books now!!",
+  "intended_action": "LIMIT",
+  "difficulty": "clear",
+  "why": "It's a misleading claim about a public service (the branch is closing for renovation, not being sold), but it isn't dangerous."
+ },
+ {
+  "id": "kmis05",
+  "area": "misinformation",
+  "text": "fyi trash pickup is cancelled for all of november because of the union thing so dont put your bins out",
+  "intended_action": "LIMIT",
+  "difficulty": "clear",
+  "why": "It's a false claim about a local public service that could confuse people but won't hurt anyone."
+ },
+ {
+  "id": "kmis06",
+  "area": "misinformation",
+  "text": "Does anyone know if the boil water notice for the Pinecrest zone got lifted? I saw something on the news but couldn't tell if it was our area.",
+  "intended_action": "ALLOW",
+  "difficulty": "clear",
+  "why": "It's a real question about a public notice, and questions are allowed."
+ },
+ {
+  "id": "kmis07",
+  "area": "misinformation",
+  "text": "Been seeing Dr. Lin at Willow Acupuncture for my lower back for about 6 weeks and honestly it's helped a lot. Still doing my PT and meds, just adding this on. Your mileage may vary!",
+  "intended_action": "ALLOW",
+  "difficulty": "clear",
+  "why": "It's a personal experience that doesn't tell anyone to drop medical treatment."
+ },
+ {
+  "id": "kmis08",
+  "area": "misinformation",
+  "text": "Calling it now: the new roundabout at Cedar & 5th is going to make morning traffic twice as bad. Mark my words.",
+  "intended_action": "ALLOW",
+  "difficulty": "clear",
+  "why": "It's a prediction and an opinion about a local project, not a claim of fact."
+ },
+ {
+  "id": "kmis09",
+  "area": "misinformation",
+  "text": "Love that my neighbor's advice for strep throat was 'just stop the antibiotics once you feel better, that's what I do.' Yeah great plan, let's all breed superbugs together \ud83d\ude44 Finish your prescriptions, people.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "The harmful claim is quoted sarcastically to argue against it, and the actual message is correct health advice."
+ },
+ {
+  "id": "kmis10",
+  "area": "misinformation",
+  "text": "I stopped taking my statins two years ago and I've never felt better. Best decision I ever made. Just sharing my story.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "It's a personal experience with no direct instruction to others, though a reviewer could reasonably read it as implied advice to stop medicine."
+ },
+ {
+  "id": "kmis11",
+  "area": "misinformation",
+  "text": "Heads up parents \u2014 Brookfield Elementary is shutting down Monday because of a measles outbreak. Keep your kids home!",
+  "intended_action": "LIMIT",
+  "difficulty": "borderline",
+  "why": "It's an unconfirmed and likely false claim about a school closure, which is misleading local news, but telling people to keep kids home isn't physically dangerous."
+ },
+ {
+  "id": "kmis12",
+  "area": "misinformation",
+  "text": "The city is putting fluoride in Millbrook water and it's basically poison. Get a reverse osmosis filter, it's worth every penny.",
+  "intended_action": "LIMIT",
+  "difficulty": "borderline",
+  "why": "It's a misleading claim about the public water supply, but the advice (a filter) doesn't put anyone in physical danger, so it falls short of removal."
+ },
+ {
+  "id": "kmis13",
+  "area": "misinformation",
+  "text": "Smoke detector chirping at 3am? Just pull the battery and deal with it in spring like I do lol. They go off for nothing anyway.",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "The casual tone looks like a joke, but it tells people that disabling smoke detectors for months is fine, which is a dangerous safety practice."
+ },
+ {
+  "id": "kmis14",
+  "area": "misinformation",
+  "text": "Unpopular opinion but I've never vaccinated my dogs or cats, not even rabies, and they're 12 and 14 and healthy as horses. Vets just want your money.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "It's framed as opinion and personal experience, though the anti-rabies-vaccine angle sits close to a dangerous safety claim."
+ },
+ {
+  "id": "kmis15",
+  "area": "misinformation",
+  "text": "GOOD NEWS: City confirmed the boil water advisory is OVER for all of Riverside as of this morning. Drink up! \ud83d\udeb0",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "It looks like a minor public-service update, but falsely saying an active boil advisory has ended could lead people to drink unsafe water."
+ },
+ {
+  "id": "kmis16",
+  "area": "misinformation",
+  "text": "Homemade colloidal silver, $20 a bottle, pickup on Tamsin Ct. Knocked out my son's strep in two days, no doctor needed. DM me!",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "It's set up as an ordinary sale, but it claims to cure a bacterial infection without a doctor, which is a dangerous health claim, and that's the most severe rule that applies."
+ },
+ {
+  "id": "kmis17",
+  "area": "misinformation",
+  "text": "Just so everyone knows, the Fenwick Street clinic doesn't take walk-ins anymore, appointments only.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "Reviewers can't tell whether this is true, and even if it's out of date it's a plain service update with low risk, so it doesn't clearly meet the bar for LIMIT."
+ },
+ {
+  "id": "kmis18",
+  "area": "misinformation",
+  "text": "The guy who just moved into 14 Ardmore Rd is the one spreading the flu around the block, he's been coughing on everyone at the mailboxes. Somebody needs to make him leave before he kills someone's grandma.",
+  "intended_action": "ESCALATE",
+  "difficulty": "borderline",
+  "why": "It looks like a health rumor, but it shares a private person's address with hostility and a veiled call to force him out, so the privacy rule calls for ESCALATE."
+ },
+ {
+  "id": "kmis19",
+  "area": "misinformation",
+  "text": "Saw the coyote on Birch Trail again. They really won't bother you, they're way more scared of us than we are of them. Make noise and it'll run off.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "It sounds like it downplays a wildlife risk, but it's generally accurate safety advice and doesn't encourage a dangerous practice."
+ },
+ {
+  "id": "kmis20",
+  "area": "misinformation",
+  "text": "Asking for my sister: she says giving her 4yo half an adult melatonin gummy every night is totally safe because it's 'natural.' Is that true?? Pediatrician isn't open till Monday.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "It repeats a questionable health claim, but it's framed as a question looking for correct information, and questions are allowed."
+ },
+ {
+  "id": "kpri01",
+  "area": "privacy",
+  "text": "Need a plumber? Ridgeline Plumbing & Drain does emergency calls 7 days a week. Our office is 410 Quarry St, Suite B, phone 555-0182. Family owned in Elmhurst Heights since 2009. Mention Corkboard for $20 off your first visit.",
+  "intended_action": "ALLOW",
+  "difficulty": "clear",
+  "why": "Sharing a business's own contact details is explicitly allowed."
+ },
+ {
+  "id": "kpri02",
+  "area": "privacy",
+  "text": "LOST DOG!! Biscuit, small tan terrier mix, red collar, ran off near Pell Park around 5pm. He's friendly but scared. PLEASE call or text me at 555-0147 any time, day or night. I'm Rosa, we're on Tamsin Ave.",
+  "intended_action": "ALLOW",
+  "difficulty": "clear",
+  "why": "The author is sharing her own phone number, which is allowed."
+ },
+ {
+  "id": "kpri03",
+  "area": "privacy",
+  "text": "Garage sale this Saturday 8am-1pm at my place, 27 Wexley Court! Kids clothes, a treadmill, tools, lots of books. Early birds welcome lol",
+  "intended_action": "ALLOW",
+  "difficulty": "clear",
+  "why": "A resident sharing their own address for their own event is allowed."
+ },
+ {
+  "id": "kpri04",
+  "area": "privacy",
+  "text": "[photo attached] This is the yellow house at the corner of Dunmore and 6th. Grass has to be 2 feet tall at this point. Does anyone know who lives here?? Wondering if I should report to the city.",
+  "intended_action": "REMOVE",
+  "difficulty": "clear",
+  "why": "It posts a photo of a private person's home without consent, and the mild complaint doesn't amount to the hostility that would trigger escalation."
+ },
+ {
+  "id": "kpri05",
+  "area": "privacy",
+  "text": "Silver Jeep Cherokee, plate 8MKD291, parked blocking my driveway on Orchard Ln for the THIRD time this week. Posting the plate so maybe the owner sees this.",
+  "intended_action": "REMOVE",
+  "difficulty": "clear",
+  "why": "It publishes a full license plate without the owner's consent."
+ },
+ {
+  "id": "kpri06",
+  "area": "privacy",
+  "text": "For anyone who wants in on the Hollow Creek Elementary carpool, Dana Pruitt is organizing it, her cell is 555-0139, just call her!",
+  "intended_action": "REMOVE",
+  "difficulty": "clear",
+  "why": "It shares a private person's phone number with no sign she agreed to it being posted."
+ },
+ {
+  "id": "kpri07",
+  "area": "privacy",
+  "text": "The creep who keeps yelling at kids at the bus stop is Martin Kessler, 1182 Alder Way. He leaves for work at 7:15 every morning. Maybe a few of us should be waiting for him and make sure he gets the message.",
+  "intended_action": "ESCALATE",
+  "difficulty": "clear",
+  "why": "It combines a private person's home address and daily schedule with clear hostility and a call to confront him."
+ },
+ {
+  "id": "kpri08",
+  "area": "privacy",
+  "text": "Janelle Ortiz at 52 Fenwick Rd poisoned my cat, I KNOW it was her. Everyone should know what kind of person lives there. She'll get what's coming.",
+  "intended_action": "ESCALATE",
+  "difficulty": "clear",
+  "why": "It posts a private person's home address together with hostility and an implied threat."
+ },
+ {
+  "id": "kpri09",
+  "area": "privacy",
+  "text": "Do NOT send your kids to Little Acorns home daycare at 309 Sorrel St. Owner was on her phone the whole time my son was there and he came home with a diaper rash. Absolutely terrible, worst $400 a week I ever spent.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "The address is also the publicly advertised location of a business, and harsh reviews of a business are allowed, though a reviewer could treat it as a private home address shared with hostility."
+ },
+ {
+  "id": "kpri10",
+  "area": "privacy",
+  "text": "Heads up, white panel van with no markings has been slowly circling Greer St and Hamlin Dr all afternoon. Partial plate starts with 7KR. Probably nothing but lock your doors.",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "Even a partial plate helps identify a private vehicle owner without consent, though a reviewer might see it as too incomplete to count as sharing a license plate."
+ },
+ {
+  "id": "kpri11",
+  "area": "privacy",
+  "text": "To the guy on Larchmont who blasts bass at 2am every weekend: you know who you are. Some of us have jobs. Get some headphones.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "It's hostile, but naming only a street gives no specific address, contact details or schedule, so no privacy rule is broken."
+ },
+ {
+  "id": "kpri12",
+  "area": "privacy",
+  "text": "Hit and run on Corliss Ave last night around 11, someone sideswiped my parked car and took off. Neighbor's camera got the plate: JVN 4473, dark grey Altima. Already gave it to police but posting in case anyone saw anything.",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "The motive is sympathetic and the police already have it, but publishing a full plate without consent is still covered by the REMOVE rule."
+ },
+ {
+  "id": "kpri13",
+  "area": "privacy",
+  "text": "Councilmember Abby Strand voted to close the Linwood Branch library. Her office line is useless so here's her personal cell: 555-0163. Blow it up, everyone call her tonight and let her know how you feel.",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "Criticizing an official's decisions is allowed, but posting her personal cell and urging people to flood it shares private contact details and encourages targeting, and a reviewer could argue the hostility is enough to escalate."
+ },
+ {
+  "id": "kpri14",
+  "area": "privacy",
+  "text": "You know who's out on Pemberton Rd every morning at 6 sharp walking her little poodle? Mrs. Okafor! She's 84 and told me she gets lonely since her husband passed. If anyone's an early riser, go say hi and keep her company \ud83d\udc9b",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "It does reveal an elderly person's daily routine, but it contains no contact details, address or hostility, so it falls outside the listed privacy violations."
+ },
+ {
+  "id": "kpri15",
+  "area": "privacy",
+  "text": "Wow, thanks SO much to whoever at 14 Birchwood Lane keeps leaving their trash bins in the middle of the street for 4 days at a time \ud83d\ude44 Really making the block look great. Some people.",
+  "intended_action": "ESCALATE",
+  "difficulty": "borderline",
+  "why": "The policy says a private home address plus hostility must be escalated, though the hostility is only sarcastic and nobody seems to be in danger."
+ },
+ {
+  "id": "kpri16",
+  "area": "privacy",
+  "text": "SCAM WARNING. Bought a 'barely used' bike off a guy named Trevor, number 555-0128, it fell apart in 2 days and now he won't answer. Don't buy anything from this lowlife!!",
+  "intended_action": "ESCALATE",
+  "difficulty": "borderline",
+  "why": "A private seller's phone number is shared together with hostility, which the policy says to escalate, although a reviewer might see it as an ordinary consumer warning that only needs removal."
+ },
+ {
+  "id": "kpri17",
+  "area": "privacy",
+  "text": "Posting this for my mom with her permission since she's not on the app \u2014 Linda Farrow, retired math teacher, tutoring grades 6\u201310, $30/hr. Text her at 555-0171.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "It's essentially a resident promoting a family member's small business with stated consent, though the reviewer can't confirm that permission was actually given."
+ },
+ {
+  "id": "kpri18",
+  "area": "privacy",
+  "text": "Found a wallet on the bench outside Marigold Bakery. ID says Gregory T. Hollis, 88 Fenwick Rd. Gregory if you see this message me and I'll drop it off!",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "The intent is helpful, but it publishes a private person's home address from his ID without his consent."
+ },
+ {
+  "id": "kpri19",
+  "area": "privacy",
+  "text": "[doorbell cam still] This guy took a package off my porch on Thursday around 2pm. Clear shot of his face. If you recognize him please contact Elmhurst PD, case #26-4419. Please don't go after him yourselves.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "A face photo isn't contact details, a home photo or a plate, and the post points people to police instead of encouraging them to target him, though a reviewer could worry about misidentification."
+ },
+ {
+  "id": "kpri20",
+  "area": "privacy",
+  "text": "Hey whoever owns the blue Civic, plate RTX-4410, in the Sycamore Plaza lot \u2014 your headlights are on! Didn't want you coming back to a dead battery.",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "The post is friendly and harmless, but the rule bans posting license plates without consent no matter the intent, and the reviewer has to decide whether to apply it literally."
+ },
+ {
+  "id": "kimp01",
+  "area": "impersonation",
+  "text": "\u26a0\ufe0f CORKBOARD SUPPORT NOTICE \u26a0\ufe0f Your account has been flagged for unusual activity. To avoid suspension, reply to this post or DM us your login email and password within 24 hrs so we can verify you're a real resident. Thank you for keeping Corkboard safe! \u2014 The Corkboard Trust Team",
+  "intended_action": "REMOVE",
+  "difficulty": "clear",
+  "why": "A regular user is pretending to be Corkboard staff to collect login details, which breaks both the impersonation and scam rules."
+ },
+ {
+  "id": "kimp02",
+  "area": "impersonation",
+  "text": "OFFICIAL NOTICE \u2013 Brookfield Township Water Dept. Due to our billing system upgrade all residents must prepay next quarter's water bill by Nov 5 or service will be interrupted. Pay securely here: brookfield-water-pay.net. We appreciate your patience. -Customer Services",
+  "intended_action": "REMOVE",
+  "difficulty": "clear",
+  "why": "The post pretends to be a government agency and asks for payment under false pretenses."
+ },
+ {
+  "id": "kimp03",
+  "area": "impersonation",
+  "text": "Corkboard Moderator here. This fence thread on Juniper Ln is now CLOSED. Anyone who keeps commenting about the Hallorans' fence will be permanently banned from the app. Consider this your only warning.",
+  "intended_action": "REMOVE",
+  "difficulty": "clear",
+  "why": "An ordinary resident is posing as Corkboard staff to shut down a discussion and threaten bans."
+ },
+ {
+  "id": "kimp04",
+  "area": "impersonation",
+  "text": "[Posted from a new account named 'Dana Whitcombe \u2013 14 Larkspur'; the real Dana Whitcombe reported it] Hi everyone it's Dana!! Just want to admit I'm the one letting my dog go on everyone's lawns and honestly I don't care, cleaning it up is beneath me \ud83d\udc85",
+  "intended_action": "REMOVE",
+  "difficulty": "clear",
+  "why": "Someone made an account in a specific resident's name and is posting false, embarrassing statements as her."
+ },
+ {
+  "id": "kimp05",
+  "area": "impersonation",
+  "text": "This is Officer Grady, Millbrook PD. To the kid at 22 Fenwick Ct who keeps skateboarding past my house at night: badge or no badge, next time I catch you near my car I will break your legs. Consider yourself warned.",
+  "intended_action": "ESCALATE",
+  "difficulty": "clear",
+  "why": "The post claims police authority and pairs a minor's home address with a threat of violence, so ESCALATE, the most severe action, applies."
+ },
+ {
+  "id": "kimp06",
+  "area": "impersonation",
+  "text": "PARODY ACCOUNT \u2014 I am NOT Mayor Teller, just a bored resident. Mayor's Diary, Day 212: Approved four new parking meters today. Next I'm putting one at the end of your driveway. Democracy!",
+  "intended_action": "ALLOW",
+  "difficulty": "clear",
+  "why": "The parody label is clear and up front, so no one would mistake this for the mayor."
+ },
+ {
+  "id": "kimp07",
+  "area": "impersonation",
+  "text": "Hi neighbors, it's Priya, owner of Saffron Thread Tailoring on Ashby Ave! We're running half-price hemming through November. Stop by, say you saw it on Corkboard \ud83e\uddf5",
+  "intended_action": "ALLOW",
+  "difficulty": "clear",
+  "why": "The real owner is promoting her own local business under her own name, with no impersonation."
+ },
+ {
+  "id": "kimp08",
+  "area": "impersonation",
+  "text": "PSA: someone set up an account called 'Gail_Pruitt2' using my profile pic and messaging people asking to borrow money. That is NOT me. My only account is this one. Please report it if they contact you. Thanks, Gail",
+  "intended_action": "ALLOW",
+  "difficulty": "clear",
+  "why": "The person being impersonated is warning neighbors about the fake account, which is allowed and helpful."
+ },
+ {
+  "id": "kimp09",
+  "area": "impersonation",
+  "text": "Mayor Teller's Daily Thoughts \ud83c\udd7f\ufe0f Today I added another parking meter. Tomorrow? Maybe one in your living room. Remember, every quarter counts!",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "It's obviously a joke, but the policy only protects parody that is clearly labeled, and this post speaks as the mayor with no label."
+ },
+ {
+  "id": "kimp10",
+  "area": "impersonation",
+  "text": "A Message From Councilwoman Ortiz: 'I have reviewed the pothole on Dover St and have decided it is now a protected wetland. Please enjoy responsibly.' (satire obviously, she hasn't fixed it in 8 months)",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "The satire label comes at the end, but it's explicit and the content is plainly mocking a public official's decisions, which the policy allows."
+ },
+ {
+  "id": "kimp11",
+  "area": "impersonation",
+  "text": "This is Walt Brenner from Oriole Way. My daughter is typing this on her account since I don't do apps. Lost my gray cardigan with the elbow patches outside the library Tuesday. It was my late wife's gift. Please call the number on her profile.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "The post speaks as another person, but it openly says the account holder is posting for him, so no one is being deceived."
+ },
+ {
+  "id": "kimp12",
+  "area": "impersonation",
+  "text": "I managed Kettle & Crumb until last month so I'm passing this along on their behalf: they're closed this Sat & Sun for a family thing, reopening Monday. Don't make the trip!",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "The poster is open about being a former employee and doesn't claim to be the business, so this is not impersonation, even though it's unverified."
+ },
+ {
+  "id": "kimp13",
+  "area": "impersonation",
+  "text": "[Author is a Cedar Glen resident, not on the HOA board] OFFICIAL CEDAR GLEN HOA NOTICE: Effective Monday, trash bins may NOT be visible from the street at any time. Violations will be fined $50/day. \u2014 The Board",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "Signing as 'The Board' and labeling the post official pretends to be an organization the poster doesn't represent, though some reviewers may not count an HOA as covered."
+ },
+ {
+  "id": "kimp14",
+  "area": "impersonation",
+  "text": "Got this text tonight from someone claiming to be 'Mayor Teller' lol: 'Hi it's Mayor Teller, need a quick favor, can you grab 3 Apple gift cards for a community event?' Obviously a scam. Don't fall for it, neighbors.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "The post quotes an impersonation scam in order to warn people about it, and does not itself impersonate anyone."
+ },
+ {
+  "id": "kimp15",
+  "area": "impersonation",
+  "text": "\u26a0\ufe0f CORKBOARD ADMIN ANNOUNCEMENT: Due to complaints, leaf blowers are now banned app-wide before 9am. ...jk I'm not an admin, I just live on Birch and it is 7:04 AM and I am begging you, Steve.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "It opens by posing as Corkboard staff, but the very next line says the poster isn't an admin, so it works as labeled parody."
+ },
+ {
+  "id": "kimp16",
+  "area": "impersonation",
+  "text": "[Account handle: 'PizzaRiot_Official'; Pizza Riot says it has no Corkboard account] Honestly our pizza has gone downhill. Frozen dough now, cheaper cheese. Wouldn't eat here if I were you.",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "Criticizing a business is allowed, but this account pretends to be the business and speaks as 'our', which is impersonation."
+ },
+ {
+  "id": "kimp17",
+  "area": "impersonation",
+  "text": "\ud83d\udc7b Greetings from beyond, neighbors! 'Tis I, Ezekiel Hargrove, founder of Hargrove Mill (d. 1891). Come visit my old mill Oct 31, 5\u20138pm for cider and ghost stories. \u2014 posted by the Hargrove Mill Historical Society",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "It's written in a real person's voice, but he's a long-dead historical figure and the society clearly identifies itself as the poster, so it's a labeled character."
+ },
+ {
+  "id": "kimp18",
+  "area": "impersonation",
+  "text": "Hi, I'm Biscuit, the beagle at the corner of Elm & 3rd \ud83d\udc36 My humans leave me alone ALL day and never walk me because they're too busy on their phones. If you see them, tell them Biscuit says they're terrible people. Woof.",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "Speaking as a dog isn't impersonation, but the post uses that voice to mock an identifiable household, which falls under the harassment rule."
+ },
+ {
+  "id": "kimp19",
+  "area": "impersonation",
+  "text": "Yes, my name is Dan Ochoa. No, I am NOT Councilman Dan Ochoa. I'm a dental hygienist on Pruitt St. Please stop messaging me about potholes and the dog park vote. I have no power here \ud83d\ude02",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "A resident sharing his real name, which matches an official's, is the opposite of impersonation because he's clearing up the confusion."
+ },
+ {
+  "id": "kimp20",
+  "area": "impersonation",
+  "text": "\ud83d\udea8 CITY OF MILLBROOK EMERGENCY ALERT \ud83d\udea8 Boil water notice is LIFTED, tap water is safe to drink again. (reposting from my cousin who works at the plant, official alert should come out tomorrow)",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "The note at the end says it's secondhand, but the post is formatted as an official city alert and declares unconfirmed water safe, which could cause physical harm."
+ },
+ {
+  "id": "kspa01",
+  "area": "spam",
+  "text": "Hi neighbors! Rosalind here from Fenwick Ave. My little bakery Crumb & Kettle (corner of Fenwick and 3rd) has pumpkin cardamom rolls this Saturday only. We open at 7am, and they usually sell out by 10. Hope to see some of you there!",
+  "intended_action": "ALLOW",
+  "difficulty": "clear",
+  "why": "A resident promoting her own local business in a single post is allowed up to once a week."
+ },
+ {
+  "id": "kspa02",
+  "area": "spam",
+  "text": "Shoutout to Dale at Tidewater Plumbing. He came out at 9pm on a Sunday when our water heater burst and only charged us the regular rate. 10/10, I'd call him again.",
+  "intended_action": "ALLOW",
+  "difficulty": "clear",
+  "why": "This is a neighbor's honest recommendation of a business they don't own, so it isn't spam or self-promotion."
+ },
+ {
+  "id": "kspa03",
+  "area": "spam",
+  "text": "hey all, I'm a 16 yr old on Larkspur Ct and I'm starting a dog walking thing for the fall. $12 a walk, I'm good with big dogs. message me if interested!!",
+  "intended_action": "ALLOW",
+  "difficulty": "clear",
+  "why": "A resident advertising their own local service once is allowed self-promotion."
+ },
+ {
+  "id": "kspa04",
+  "area": "spam",
+  "text": "POSTING AGAIN in case you missed Monday's, Tuesday's and Thursday's posts!!! GreenEdge Lawn & Leaf, fall cleanup special, $89 per yard. Call 555-0143. Spots filling up FAST. Will keep posting till we're booked!",
+  "intended_action": "LIMIT",
+  "difficulty": "clear",
+  "why": "The same business is promoted several times in one week, which is repetitive promotion under the LIMIT rule."
+ },
+ {
+  "id": "kspa05",
+  "area": "spam",
+  "text": "Looking for a new dentist? Brightway Family Dental is now taking new patients at our Harlow City office, just 45 minutes up the highway! Mention Corkboard for a free whitening consult.",
+  "intended_action": "LIMIT",
+  "difficulty": "clear",
+  "why": "It promotes a business located outside the neighborhood, which gets LIMIT."
+ },
+ {
+  "id": "kspa06",
+  "area": "spam",
+  "text": "\ud83c\udf89 GIVEAWAY \ud83c\udf89 SHARE this post and tag 3 friends to WIN a $500 Visa gift card!!! Winner announced Friday. The more you share the more chances you get!!! \ud83c\udf89",
+  "intended_action": "REMOVE",
+  "difficulty": "clear",
+  "why": "This is classic \"share this to win\" engagement bait, which must be removed."
+ },
+ {
+  "id": "kspa07",
+  "area": "spam",
+  "text": "Neighbors, I lost 30 lbs in 3 weeks with this one weird trick doctors don't want you to know about \ud83d\udc49 slimfastresults-now.biz/ref=8832",
+  "intended_action": "REMOVE",
+  "difficulty": "clear",
+  "why": "It links to an unrelated outside site with no local or neighborhood purpose."
+ },
+ {
+  "id": "kspa08",
+  "area": "spam",
+  "text": "ATTENTION HOMEOWNERS: We Buy Houses CASH Any Condition! Close in 7 days! Call 555-0199 now. (Posted in all neighborhoods in the county)",
+  "intended_action": "REMOVE",
+  "difficulty": "clear",
+  "why": "The author says the same content was posted across many neighborhoods, which makes it mass-posted identical content."
+ },
+ {
+  "id": "kspa09",
+  "area": "spam",
+  "text": "Not my business, I just love them. If you're ever out near Pinecrest (about 30 min away), Mama Ines' Tamales is the best food I've had all year. Worth the drive!",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "It promotes an out-of-area business, but it's a resident's personal recommendation rather than promotion. It could reasonably be read as LIMIT."
+ },
+ {
+  "id": "kspa10",
+  "area": "spam",
+  "text": "My garden went nuts this year \ud83c\udf45 I have way too many tomatoes. Comment below if you want a bag and I'll leave some on my porch for whoever's first. No strings, just come grab them.",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "\"Comment below\" looks like engagement bait, but this is a real free giveaway with no share-to-win mechanic."
+ },
+ {
+  "id": "kspa11",
+  "area": "spam",
+  "text": "Thank you SO much to everyone who came to our grand opening on Tuesday!! As I mentioned in Sunday's post, Hollis Hardware is here for all your fall projects. This week only, 15% off all rakes and leaf bags!",
+  "intended_action": "LIMIT",
+  "difficulty": "borderline",
+  "why": "The thank-you framing is friendly, but it's a second promotional post for the same local business within the same week, which counts as repetitive promotion."
+ },
+ {
+  "id": "kspa12",
+  "area": "spam",
+  "text": "Day 6 posting this. PLEASE keep an eye out for Biscuit, small orange tabby, green collar, last seen near Orchard Lane and Wren St. Reward offered. I'll keep posting every day until he's home \ud83d\ude22",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "The post is repeated daily, but it's a lost-pet notice and not promotion, so the spam rules for repetitive promotion don't apply."
+ },
+ {
+  "id": "kspa13",
+  "area": "spam",
+  "text": "Ladies!! Tired of the 9-5? I'm building a team and looking for motivated mamas who want to earn from their phone \ud83d\udcb8 No experience needed. DM me to hear how I made $3k last month!",
+  "intended_action": "LIMIT",
+  "difficulty": "borderline",
+  "why": "It's vague recruitment for what looks like an MLM, so it's suspicious promotion without clear proof of fraud. A reviewer could argue REMOVE as a scam."
+ },
+ {
+  "id": "kspa14",
+  "area": "spam",
+  "text": "Lincoln Elementary PTA fundraiser! Our sponsor Corvus Credit Union will donate $1,000 to the library if this post gets 500 shares. Please SHARE SHARE SHARE, it's for the kids! \ud83d\udcda",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "The cause is sympathetic, but making a reward depend on shares is still engagement bait under the spam rule."
+ },
+ {
+  "id": "kspa15",
+  "area": "spam",
+  "text": "Hey Corkboard! I'm the drummer for The Static Hollows. We're not from around here, but we're playing The Rusty Anchor on Delmar St this Friday at 9, no cover. Come say hi!",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "The poster isn't local, but the event takes place at a venue in the neighborhood, so it reads as a local event notice rather than outside promotion. LIMIT is arguable."
+ },
+ {
+  "id": "kspa16",
+  "area": "spam",
+  "text": "Oh look, it's Friday, which means ANOTHER ad from Kevin's Power Washing. Share this post to win the grand prize of never seeing his flyer again \ud83d\ude44 Seriously Corkboard, can we get a mute button?",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "\"Share this to win\" is used sarcastically. The post is a complaint about a business's ads, which is allowed criticism and not engagement bait."
+ },
+ {
+  "id": "kspa17",
+  "area": "spam",
+  "text": "Use my code ALDA20 for $20 off your first FreshDash grocery delivery! I get a credit too so it's a win-win \ud83d\ude0a freshdash.com/invite/ALDA20",
+  "intended_action": "LIMIT",
+  "difficulty": "borderline",
+  "why": "It's a referral link that benefits the poster and promotes a national company from outside the neighborhood. Some reviewers might REMOVE it as an unrelated link."
+ },
+ {
+  "id": "kspa18",
+  "area": "spam",
+  "text": "\u2b50 CORKBOARD FEATURED BUSINESS OF THE MONTH \u2b50 The Corkboard team has selected Mapleview Auto Detailing as October's top-rated local business! Book now at 555-0177 to claim your Corkboard member discount.",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "This is local self-promotion, which would normally be allowed, but it falsely claims endorsement by Corkboard staff, which breaks the impersonation rule. The most severe action applies."
+ },
+ {
+  "id": "kspa19",
+  "area": "spam",
+  "text": "I live right on the line between Ashgrove and Millbrook so I'm posting this in both feeds: piano lessons for kids 6-12, my home studio on Birch Rd, $30/half hour. Message me!",
+  "intended_action": "ALLOW",
+  "difficulty": "borderline",
+  "why": "The same text is posted in two adjacent feeds where the author really is local, which falls short of mass posting. LIMIT is arguable."
+ },
+ {
+  "id": "kspa20",
+  "area": "spam",
+  "text": "Crumb & Kettle here! \ud83e\udd50 Want a FREE cinnamon roll? LIKE this post and comment \"YES\" and we'll pick 5 winners Saturday morning!",
+  "intended_action": "REMOVE",
+  "difficulty": "borderline",
+  "why": "A local bakery is usually allowed to promote itself, but tying a prize to likes and comments is engagement bait."
+ }
+]

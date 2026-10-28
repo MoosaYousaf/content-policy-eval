@@ -1,0 +1,126 @@
+{
+ "labels": [
+  {
+   "id": "hmis20",
+   "action": "ALLOW",
+   "section": 3,
+   "confidence": 3
+  },
+  {
+   "id": "hmis16",
+   "action": "ALLOW",
+   "section": 3,
+   "confidence": 2
+  },
+  {
+   "id": "hpri17",
+   "action": "REMOVE",
+   "section": 4,
+   "confidence": 2
+  },
+  {
+   "id": "hsca03",
+   "action": "ALLOW",
+   "section": 0,
+   "confidence": 3
+  },
+  {
+   "id": "hpri04",
+   "action": "REMOVE",
+   "section": 4,
+   "confidence": 3
+  },
+  {
+   "id": "hpri06",
+   "action": "ESCALATE",
+   "section": 4,
+   "confidence": 3
+  },
+  {
+   "id": "hsca04",
+   "action": "REMOVE",
+   "section": 2,
+   "confidence": 3
+  },
+  {
+   "id": "hmis01",
+   "action": "REMOVE",
+   "section": 3,
+   "confidence": 3
+  },
+  {
+   "id": "himp20",
+   "action": "ALLOW",
+   "section": 5,
+   "confidence": 2
+  },
+  {
+   "id": "hspa13",
+   "action": "LIMIT",
+   "section": 6,
+   "confidence": 2
+  },
+  {
+   "id": "hsca05",
+   "action": "REMOVE",
+   "section": 2,
+   "confidence": 3
+  },
+  {
+   "id": "hhar07",
+   "action": "ESCALATE",
+   "section": 1,
+   "confidence": 3
+  },
+  {
+   "id": "hmis17",
+   "action": "ALLOW",
+   "section": 3,
+   "confidence": 3
+  },
+  {
+   "id": "himp11",
+   "action": "ALLOW",
+   "section": 0,
+   "confidence": 2
+  },
+  {
+   "id": "hhar19",
+   "action": "REMOVE",
+   "section": 1,
+   "confidence": 2
+  },
+  {
+   "id": "hmis10",
+   "action": "ALLOW",
+   "section": 3,
+   "confidence": 2
+  },
+  {
+   "id": "hspa19",
+   "action": "REMOVE",
+   "section": 6,
+   "confidence": 2
+  },
+  {
+   "id": "hmis03",
+   "action": "REMOVE",
+   "section": 3,
+   "confidence": 3
+  },
+  {
+   "id": "hhar03",
+   "action": "ALLOW",
+   "section": 1,
+   "confidence": 3
+  },
+  {
+   "id": "hspa04",
+   "action": "LIMIT",
+   "section": 6,
+   "confidence": 2
+  }
+ ],
+ "cost_usd": 0.00193721,
+ "seconds": 20.3
+}

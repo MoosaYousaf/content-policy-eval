@@ -1,0 +1,126 @@
+{
+ "labels": [
+  {
+   "id": "khar10",
+   "action": "ALLOW",
+   "section": 0,
+   "confidence": 3
+  },
+  {
+   "id": "kimp05",
+   "action": "ESCALATE",
+   "section": 1,
+   "confidence": 3
+  },
+  {
+   "id": "kimp16",
+   "action": "REMOVE",
+   "section": 5,
+   "confidence": 3
+  },
+  {
+   "id": "kspa15",
+   "action": "LIMIT",
+   "section": 6,
+   "confidence": 2
+  },
+  {
+   "id": "kimp13",
+   "action": "REMOVE",
+   "section": 5,
+   "confidence": 3
+  },
+  {
+   "id": "ksca11",
+   "action": "ALLOW",
+   "section": 2,
+   "confidence": 2
+  },
+  {
+   "id": "kimp14",
+   "action": "ALLOW",
+   "section": 0,
+   "confidence": 3
+  },
+  {
+   "id": "kimp08",
+   "action": "ALLOW",
+   "section": 0,
+   "confidence": 3
+  },
+  {
+   "id": "kimp17",
+   "action": "ALLOW",
+   "section": 5,
+   "confidence": 2
+  },
+  {
+   "id": "kspa10",
+   "action": "ALLOW",
+   "section": 6,
+   "confidence": 2
+  },
+  {
+   "id": "kmis08",
+   "action": "ALLOW",
+   "section": 3,
+   "confidence": 3
+  },
+  {
+   "id": "kpri20",
+   "action": "ALLOW",
+   "section": 4,
+   "confidence": 2
+  },
+  {
+   "id": "kimp09",
+   "action": "REMOVE",
+   "section": 5,
+   "confidence": 2
+  },
+  {
+   "id": "ksca13",
+   "action": "LIMIT",
+   "section": 2,
+   "confidence": 2
+  },
+  {
+   "id": "khar17",
+   "action": "ALLOW",
+   "section": 1,
+   "confidence": 3
+  },
+  {
+   "id": "kpri03",
+   "action": "ALLOW",
+   "section": 4,
+   "confidence": 3
+  },
+  {
+   "id": "kimp03",
+   "action": "REMOVE",
+   "section": 5,
+   "confidence": 3
+  },
+  {
+   "id": "kimp18",
+   "action": "REMOVE",
+   "section": 1,
+   "confidence": 1
+  },
+  {
+   "id": "kmis12",
+   "action": "LIMIT",
+   "section": 3,
+   "confidence": 2
+  },
+  {
+   "id": "kpri09",
+   "action": "ALLOW",
+   "section": 1,
+   "confidence": 2
+  }
+ ],
+ "cost_usd": 0.0295351,
+ "seconds": 19.18
+}

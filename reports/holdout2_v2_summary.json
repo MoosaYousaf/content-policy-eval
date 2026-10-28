@@ -1,0 +1,70 @@
+{
+ "set": "holdout2",
+ "version": "v2",
+ "n_posts": 120,
+ "fleiss_kappa": 0.73,
+ "unanimous_pct": 73.3,
+ "pairwise_kappa": {
+  "claude-haiku-5.5 vs claude-sonnet-5.5": 0.914,
+  "claude-haiku-5.5 vs gemini-3.5-flash-lite": 0.614,
+  "claude-sonnet-5.5 vs gemini-3.5-flash-lite": 0.664
+ },
+ "by_area": {
+  "harassment": {
+   "fleiss_kappa": 0.755,
+   "unanimous_pct": 75.0
+  },
+  "impersonation": {
+   "fleiss_kappa": 0.715,
+   "unanimous_pct": 75.0
+  },
+  "misinformation": {
+   "fleiss_kappa": 0.751,
+   "unanimous_pct": 75.0
+  },
+  "privacy": {
+   "fleiss_kappa": 0.507,
+   "unanimous_pct": 50.0
+  },
+  "scams": {
+   "fleiss_kappa": 0.778,
+   "unanimous_pct": 80.0
+  },
+  "spam": {
+   "fleiss_kappa": 0.847,
+   "unanimous_pct": 85.0
+  }
+ },
+ "by_difficulty": {
+  "clear": {
+   "fleiss_kappa": 0.877,
+   "unanimous_pct": 87.5
+  },
+  "borderline": {
+   "fleiss_kappa": 0.625,
+   "unanimous_pct": 63.9
+  }
+ },
+ "accuracy_vs_key": {
+  "claude-haiku-5.5": {
+   "all": 85.0,
+   "clear": 100.0,
+   "borderline": 75.0
+  },
+  "claude-sonnet-5.5": {
+   "all": 86.7,
+   "clear": 100.0,
+   "borderline": 77.8
+  },
+  "gemini-3.5-flash-lite": {
+   "all": 75.0,
+   "clear": 87.5,
+   "borderline": 66.7
+  }
+ },
+ "cost_usd": {
+  "claude-haiku-5.5": 0.017551280000000002,
+  "claude-sonnet-5.5": 0.1700738,
+  "gemini-3.5-flash-lite": 0.0182293
+ }
+}
